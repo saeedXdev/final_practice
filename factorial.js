@@ -1,3 +1,9 @@
+
+const wishHello = function()
+{
+    console.log("Hello world!");
+}
+
 const factorial = function(val)
 {
     if(val===0 || val===1)
