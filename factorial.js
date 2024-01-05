@@ -4,7 +4,7 @@ const factorial = function(val)
         return 1;
 
 <<<<<<< HEAD
-    return (val+1) * factorial(val-1);    
+       
 =======
     return val-1 * factorial(val-1);    
 >>>>>>> master
