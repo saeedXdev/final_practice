@@ -1,3 +1,0 @@
-hello world
-This file is being prepared for Github Test.
-The new change for stash......
