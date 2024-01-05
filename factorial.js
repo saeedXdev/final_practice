@@ -7,5 +7,5 @@ const factorial = function(val)
 }
 
 
-const val = prompt("Please Enter the values : ");
-console.log(factorial(Number(val)))
+const val = Number(prompt("Please Enter the values : "));
+console.log(factorial(val));
