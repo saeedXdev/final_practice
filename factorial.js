@@ -26,6 +26,11 @@ console.log(sum(val,val));
 
 //adding subtraction function....
 
+let a=34;
+let b=90;
+let c=903;
+const name ="saeed anwar ansari";
+
 const sub = function(val1,val2)
 {
 
