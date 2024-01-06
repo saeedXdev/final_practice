@@ -1,0 +1,152 @@
+[33mcommit 821b12648fa19bbe5d0b1760bd06c1a0b039cc14[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Merge: 6843037 2f37162
+Author: shivlal <saeedanwaransari573@gmail.com>
+Date:   Sat Jan 6 10:08:43 2024 +0530
+
+    Conflict resolved only in main, Not in the branch itself
+
+[33mcommit 684303773f18bcb0f13f5108b017202ca835173e[m
+Author: shivlal <saeedanwaransari573@gmail.com>
+Date:   Sat Jan 6 10:07:37 2024 +0530
+
+    commited on main
+
+[33mcommit 2f3716296553c99f2a9065ae93d1cddb157cde92[m
+Author: shivlal <saeedanwaransari573@gmail.com>
+Date:   Sat Jan 6 10:07:02 2024 +0530
+
+    commited on branch1
+
+[33mcommit dada1af2e3a1963c053e043db981dbd130e6888f[m
+Merge: 2b6c33a 3f9a880
+Author: Ansari Saeed Anwar <155348987+saeedXdev@users.noreply.github.com>
+Date:   Sat Jan 6 09:20:53 2024 +0530
+
+    Merge pull request #2 from saeedXdev/branch1
+    
+    adding sum & subtract
+
+[33mcommit 3f9a880df0b03de3eea5698e97e525d90d2eabc9[m
+Merge: 7349d6a 2b6c33a
+Author: Ansari Saeed Anwar <155348987+saeedXdev@users.noreply.github.com>
+Date:   Sat Jan 6 09:20:35 2024 +0530
+
+    Merge branch 'main' into branch1
+
+[33mcommit 2b6c33ad052b966b1a893a6d423277d4ecbe9918[m
+Author: shivlal <saeedanwaransari573@gmail.com>
+Date:   Sat Jan 6 09:10:06 2024 +0530
+
+    added subtraction on main
+
+[33mcommit 7349d6a5bf9d15318c72853b749e82a5c68dae11[m[33m ([m[1;31morigin/branch1[m[33m)[m
+Author: shivlal <saeedanwaransari573@gmail.com>
+Date:   Sat Jan 6 09:07:47 2024 +0530
+
+    adding sum
+
+[33mcommit e249992399d8dd9675af0bca61372e93b9ab0812[m
+Author: shivlal <saeedanwaransari573@gmail.com>
+Date:   Sat Jan 6 08:58:58 2024 +0530
+
+    deleted sum
+
+[33mcommit 12e6e208f42594ecba675f33fb704a2a57724c7b[m
+Author: shivlal <saeedanwaransari573@gmail.com>
+Date:   Fri Jan 5 18:37:54 2024 +0530
+
+    addes wishhello
+
+[33mcommit d95732abe4cee8a0e94058716fa7135b9d6733f1[m
+Author: shivlal <saeedanwaransari573@gmail.com>
+Date:   Fri Jan 5 18:29:31 2024 +0530
+
+    add function added
+
+[33mcommit 46fd2380962fce0004f08fb92054b05868bb6bf5[m
+Author: Ansari Saeed Anwar <155348987+saeedXdev@users.noreply.github.com>
+Date:   Fri Jan 5 18:26:49 2024 +0530
+
+    Update README.md
+
+[33mcommit 0e785a37e72a368fc473692683d2ed9643a89711[m
+Merge: 0f4d6d3 72ef4e9
+Author: Ansari Saeed Anwar <155348987+saeedXdev@users.noreply.github.com>
+Date:   Fri Jan 5 18:19:28 2024 +0530
+
+    Merge pull request #1 from saeedXdev/feature-branch
+    
+    feature-added
+
+[33mcommit 72ef4e9b5001e11d4e4567045a1456d8eaffef5c[m[33m ([m[1;31morigin/feature-branch[m[33m)[m
+Author: shivlal <saeedanwaransari573@gmail.com>
+Date:   Fri Jan 5 18:15:59 2024 +0530
+
+    feature-added
+
+[33mcommit 0f4d6d32350a98eb6f9f13c2fc75fe0c035d0273[m
+Author: Ansari Saeed Anwar <155348987+saeedXdev@users.noreply.github.com>
+Date:   Fri Jan 5 12:01:23 2024 +0530
+
+    Update README.md
+
+[33mcommit 2fb5343846844e354ac0e32dcf1b6742f59dd6aa[m
+Author: Ansari Saeed Anwar <155348987+saeedXdev@users.noreply.github.com>
+Date:   Fri Jan 5 12:00:35 2024 +0530
+
+    Create README.md
+
+[33mcommit 5d082ff7cd450b7b71ed7749185353e18bf55792[m
+Author: Ansari Saeed <heyysaeed.dev@gmail.com>
+Date:   Fri Jan 5 11:51:19 2024 +0530
+
+    file has been changed
+
+[33mcommit dcf11c2dcd7a3ee8512f72908808d7f65b0d816c[m
+Author: Ansari Saeed <heyysaeed.dev@gmail.com>
+Date:   Fri Jan 5 11:48:24 2024 +0530
+
+    final change
+
+[33mcommit 4b5f2a1163d5b82e9e944f09bad8324aa42f15ff[m
+Merge: 2722848 db06217
+Author: Ansari Saeed <heyysaeed.dev@gmail.com>
+Date:   Fri Jan 5 11:45:50 2024 +0530
+
+    conflict Resolved
+
+[33mcommit db062175c0401570f554c33a739f3e6d56b5c424[m
+Author: Ansari Saeed <heyysaeed.dev@gmail.com>
+Date:   Fri Jan 5 11:40:10 2024 +0530
+
+    change on change_factorial on master
+
+[33mcommit 27228486ce6499dacce3e91581370a2bb499165a[m
+Author: Ansari Saeed <heyysaeed.dev@gmail.com>
+Date:   Fri Jan 5 11:39:38 2024 +0530
+
+    change on change_factorial branch
+
+[33mcommit b14061fc60f605ae152dd759fe36ae14acdf9c20[m
+Author: Ansari Saeed <heyysaeed.dev@gmail.com>
+Date:   Fri Jan 5 11:37:20 2024 +0530
+
+    factorial.js first commit
+
+[33mcommit 28bf5137315076dab189dbea000c824a35d9f5a5[m
+Author: Ansari Saeed <heyysaeed.dev@gmail.com>
+Date:   Fri Jan 5 11:36:54 2024 +0530
+
+    first commit
+
+[33mcommit 2abe3b21c2a50c487e766fe993e9604941f19b1b[m
+Author: Ansari Saeed <heyysaeed.dev@gmail.com>
+Date:   Fri Jan 5 11:27:32 2024 +0530
+
+    change of file1 on master branch
+
+[33mcommit f3aec9390c9dab882eadd85b6d56ef7f21f20af6[m
+Author: Ansari Saeed <heyysaeed.dev@gmail.com>
+Date:   Fri Jan 5 11:18:03 2024 +0530
+
+    First Commit
