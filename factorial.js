@@ -28,6 +28,11 @@ console.log(sum(val,val));
 let k=30;
 let m=3484;
 let j = {name :"saeed", sirname:"Ansari"};
+
+let a=34;
+let b=90;
+let c=903;
+
 const sub = function(val1,val2)
 {
 
