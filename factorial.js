@@ -25,6 +25,7 @@ console.log(sum(val,val));
 
 
 //adding subtraction function....
+
 let desc = "This is production level and final then we will going to merge it with ";
 let myobj = {
     fname : "Ansari",
@@ -32,6 +33,11 @@ let myobj = {
     contact : "8980742307",
     gender :"male"
 }
+
+let a=34;
+let b=90;
+let c=903;
+
 const sub = function(val1,val2)
 {
 
