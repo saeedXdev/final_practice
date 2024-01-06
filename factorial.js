@@ -15,6 +15,3 @@ const factorial = function(val)
 const val = Number(prompt("Please Enter the values : "));
 console.log(factorial(val));
 
-const sum = function(val1 ,val2){
-    return val1 + val2;
-}
