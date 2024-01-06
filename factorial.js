@@ -13,11 +13,22 @@ const factorial = function(val)
 }
 
 const val = Number(prompt("Please Enter the values : "));
-console.log(factorial(val) + factorial(val));
+console.log(factorial(val));
+//adding sum function.
+
+const sum = function(val1,val2)
+{
+    return val1+val2;
+}
+
+console.log(sum(val,val));
+
+
 //adding subtraction function....
 
 const sub = function(val1,val2)
 {
     return val1 - val2;
 }
+
 
