@@ -13,5 +13,15 @@ const factorial = function(val)
 }
 
 const val = Number(prompt("Please Enter the values : "));
-console.log(factorial(val));
+let ans = factorial(val);
+console.log(ans);
+//adding sum function.
+
+const sum = function(val1,val2)
+{
+    return val1+val2;
+}
+
+console.log(sum(val,val));
+
 
