@@ -25,7 +25,9 @@ console.log(sum(val,val));
 
 
 //adding subtraction function....
-
+let k=30;
+let m=3484;
+let j = {name :"saeed", sirname:"Ansari"};
 const sub = function(val1,val2)
 {
 
