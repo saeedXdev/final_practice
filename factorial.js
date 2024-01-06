@@ -13,5 +13,11 @@ const factorial = function(val)
 }
 
 const val = Number(prompt("Please Enter the values : "));
-console.log(factorial(val));
+console.log(factorial(val) + factorial(val));
+//adding subtraction function....
+
+const sub = function(val1,val2)
+{
+    return val1 - val2;
+}
 
